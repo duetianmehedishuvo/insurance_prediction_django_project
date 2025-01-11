@@ -29,17 +29,17 @@ The **Insurance Prediction Django Project** is a web application designed to pre
 
 ## Project Structure
 
-The project is organized as follows:
-insurance_prediction_django_project/ 
-├── .idea/ # IDE configurations (specific to your setup) 
-├── home/ # Home app for main landing pages 
-├── insurance/ # Core app for insurance prediction logic 
-├── static/ # Static files (CSS, JS, Images, etc.) 
-├── templates/ # HTML templates for rendering views 
-├── db.sqlite3 # SQLite database 
-├── manage.py # Django management script 
-├── output.png # Project screenshot 
-├── readme.md # Project README file
+    The project is organized as follows:
+    insurance_prediction_django_project/ 
+    ├── .idea/ # IDE configurations (specific to your setup) 
+    ├── home/ # Home app for main landing pages 
+    ├── insurance/ # Core app for insurance prediction logic 
+    ├── static/ # Static files (CSS, JS, Images, etc.) 
+    ├── templates/ # HTML templates for rendering views 
+    ├── db.sqlite3 # SQLite database 
+    ├── manage.py # Django management script 
+    ├── output.png # Project screenshot 
+    ├── readme.md # Project README file
 
 
 ---
