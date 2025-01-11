@@ -8,7 +8,6 @@
 4. [Technologies Used](#technologies-used)
 5. [Setup Instructions](#setup-instructions)
 6. [Design Resources](#design-resources)
-7. [License](#license)
 
 ---
 
